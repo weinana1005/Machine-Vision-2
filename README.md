@@ -12,7 +12,7 @@
 
 # Homography and Condensation Tracking Project
 
-Welcome to the **Homography and Condensation Tracking Project** repository. This project explores advanced techniques in **computer vision**, specifically **homography estimation** and **condensation tracking (particle filtering)**, using Python and OpenCV.
+This project explores advanced techniques in **Machine vision**, specifically **homography estimation** and **condensation tracking (particle filtering)**, using Python and OpenCV.
 
 ---
 
